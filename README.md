@@ -1,0 +1,1 @@
+# master-detail-view-application
