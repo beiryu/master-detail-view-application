@@ -1,0 +1,80 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Computer Science",
+      "description": "An introduction to computer science with a focus on programming concepts and problem solving.",
+      "percentComplete": 20,
+      "favorite": false
+    },
+    {
+      "id": 2,
+      "title": "Data Structures and Algorithms",
+      "description": "An in-depth look at data structures and algorithms, including analysis and implementation.",
+      "percentComplete": 50,
+      "favorite": true
+    },
+    {
+      "id": 3,
+      "title": "Web Development",
+      "description": "A comprehensive guide to building web applications using modern web development tools and frameworks.",
+      "percentComplete": 10,
+      "favorite": false
+    },
+    {
+      "id": 4,
+      "title": "Artificial Intelligence",
+      "description": "An overview of artificial intelligence and machine learning, with an emphasis on real-world applications.",
+      "percentComplete": 75,
+      "favorite": true
+    },
+    {
+      "id": 5,
+      "title": "Mobile App Development",
+      "description": "A hands-on guide to building mobile applications for iOS and Android using modern mobile development tools.",
+      "percentComplete": 30,
+      "favorite": false
+    },
+    {
+      "id": 6,
+      "title": "Database Systems",
+      "description": "A comprehensive look at database systems, including design, implementation, and query optimization.",
+      "percentComplete": 90,
+      "favorite": true
+    },
+    {
+      "id": 7,
+      "title": "Computer Networks",
+      "description": "An overview of computer networks and the protocols that govern communication between devices.",
+      "percentComplete": 40,
+      "favorite": false
+    },
+    {
+      "id": 8,
+      "title": "Software Engineering",
+      "description": "An introduction to the principles of software engineering, including requirements analysis, design, and testing.",
+      "percentComplete": 60,
+      "favorite": true
+    },
+    {
+      "id": 9,
+      "title": "Operating Systems",
+      "description": "A comprehensive look at operating systems, including process management, memory management, and file systems.",
+      "percentComplete": 80,
+      "favorite": false
+    },
+    {
+      "id": 10,
+      "title": "Computer Security",
+      "description": "An overview of computer security and the techniques used to protect computer systems and networks.",
+      "percentComplete": 15,
+      "favorite": true
+    }
+  ],
+  "lessons": [
+    {
+      "id": "1",
+      "title": "Component Driven Architecture"
+    }
+  ]
+}
